@@ -7,7 +7,6 @@ An AI that helps you study by generating practice questions based off of an arti
 
 [Click here for Demo](example.com)
 
-</br>
 
 ## Table Of Contents
 
@@ -26,7 +25,6 @@ Our idea for the project was to make an AI model that could help student sstudy 
 </br> Hence the name, Questy (Questions + Study). 
 </br> The user is also able to control the number of questions that the model outputs. It also outputs the answers to the questions. 
 
-</br>
 
 ## Technologies Used
 
@@ -34,7 +32,6 @@ Our idea for the project was to make an AI model that could help student sstudy 
 
 In addition to these cool logos, we also used [Gradio](https://gradio.app/) for the UI, and [HuggingFace Spaces](https://huggingface.co/spaces) to train our model. 
 
-</br>
 
 ## Usage + Demo
 
@@ -43,14 +40,12 @@ To try out the model, click [this link](example.com).
 (insert screenshot of Gradio here)
 The user can input the textbook article or section in the left box, and the AI outputs the questions on the right. The user can also choose the amount of questions that they want generated. 
 
-</br>
 
 ## Authors
 Adidya Velusamy -- insert roles here
 Dhruv C. -- Inser roels here
 Ray Tang -- UI Engineer (i also wrote this readme file)
 
-</br>
 
 ## Acknowledgements
 
