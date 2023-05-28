@@ -3,7 +3,7 @@ from transformers import pipeline
 from huggingface_hub import hf_api
 
 
-pipe = pipeline("text-generation", model="adityavelusamy/quest-v3")
+pipe = pipeline("text-generation", model="adityavelusamy/autotrain-6v04-emwh-bq47-62263135046")
 def contentText(conText):
     return conText
 def combine(context, numQuestions):
